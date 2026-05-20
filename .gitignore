@@ -12,3 +12,4 @@ bin
 reports
 *.pyc
 __pycache__/
+charts/
