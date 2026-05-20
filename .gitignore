@@ -10,3 +10,5 @@ bin
 *.ipr
 *.iws
 reports
+*.pyc
+__pycache__/
